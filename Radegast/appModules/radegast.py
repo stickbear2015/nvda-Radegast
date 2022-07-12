@@ -110,7 +110,7 @@ class HistoryText(edit.Edit):
 
 
 class AppModule(appModuleHandler.AppModule):
-	historyWindowClassName = "WindowsForms10.RichEdit20W.app.0.33c0d9d"
+	historyWindowClassName = "WindowsForms10.RICHEDIT50W.app.0.232467a_r8_ad1"
 	isSilent = False
 	tabsObj = None
 
